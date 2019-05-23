@@ -1,5 +1,5 @@
 package hello;
 
-public class BicicleRepository {
+public class BicicleRepository implements  {
 
 }
